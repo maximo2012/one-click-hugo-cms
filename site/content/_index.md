@@ -1,6 +1,6 @@
 ---
-title: ASPINWALL ABOGADOS
-subtitle: El mejor buffete de abogados de la provincia de Colon.
+title: GGM COMUNICACIONES
+subtitle: El mejor servicio de mercadotecnia  de la Republica de Panama
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
